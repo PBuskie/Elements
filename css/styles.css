@@ -1,0 +1,43 @@
+/* Remove margin and padding from all elements*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;  
+}
+
+body{
+    width: 100vw;  
+}
+
+/* Set width of 100% so that image sizes can be controlled by their container */
+img{
+    width: 100%;
+}
+
+ul, li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* HEADER */
+header{
+
+
+}
+
+
+header > nav{
+
+
+}
+.mainNav > li{
+
+
+}
+
+/* MAIN */
+
+/* FOOTER */
