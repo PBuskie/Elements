@@ -65,7 +65,7 @@ a{
 }
 
 .parallax{
-    background-image: url(/images/parallax.jpg);
+    background-image: url(../images/parallax.jpg);
     height: 400px;
     display: flex;
     justify-content: end;
